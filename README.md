@@ -208,29 +208,6 @@ sudo nmap -O localhost
 
 ---
 
-# Open Ports
-
-```
-(Paste your Nmap output here)
-```
-
----
-
-# Running Services
-
-```
-(Paste detected services here)
-```
-
----
-
-# Operating System
-
-```
-(Paste detected operating system here)
-```
-
----
 
 # Observations
 
@@ -248,5 +225,8 @@ sudo nmap -O localhost
 This practical exercise provided hands-on experience with the scanning and enumeration phase of ethical hacking. Using Nmap, I successfully verified the installation, scanned localhost, detected open ports, identified service versions, and performed operating system detection. The exercise demonstrated how attackers and security professionals gather information about a target system. Understanding this phase is essential because it helps identify potential attack surfaces and implement appropriate security measures before vulnerabilities can be exploited.
 
 ---
+
+
+
 
 
