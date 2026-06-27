@@ -33,7 +33,7 @@ nmap --version
 The above command displays the installed version of Nmap along with additional information such as the supported libraries and compilation details. Successful execution confirms that Nmap is ready for use.
 
 
-Nmap_Version.png
+![Nmap Version](Nmap_Version.png)
 ```
 
 ---
@@ -73,7 +73,7 @@ The output provides basic information about the services currently accepting con
 - Service names are identified
 
 
-Localhost_Scan.png
+![Localhost Scan](Localhost_Scan.png)
 ```
 
 ---
@@ -106,7 +106,7 @@ The **-sV** option enables service version detection. Instead of displaying only
 Knowing service versions helps security professionals determine whether outdated or vulnerable software is running on the target system.
 
 
-Service_Version.png
+![Service Version](Service_Version.png)
 ```
 
 ---
@@ -140,7 +140,7 @@ Operating System Detected:
 Operating System detection helps identify possible vulnerabilities associated with a specific OS version. This information is valuable during vulnerability assessment and penetration testing.
 
 
-OS_Detection.png
+![OS Detection](OS_Detection.png)
 ```
 
 ---
