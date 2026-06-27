@@ -209,8 +209,6 @@ sudo nmap -O localhost
 ---
 
 
-# Observations
-
 - Nmap successfully detected active services running on localhost.
 - Service version detection revealed detailed software information.
 - OS detection identified the operating system accurately.
@@ -220,11 +218,13 @@ sudo nmap -O localhost
 ---
 
 
-# Conclusion
 
-This practical exercise provided hands-on experience with the scanning and enumeration phase of ethical hacking. Using Nmap, I successfully verified the installation, scanned localhost, detected open ports, identified service versions, and performed operating system detection. The exercise demonstrated how attackers and security professionals gather information about a target system. Understanding this phase is essential because it helps identify potential attack surfaces and implement appropriate security measures before vulnerabilities can be exploited.
 
----
+
+
+
+
+
 
 
 
